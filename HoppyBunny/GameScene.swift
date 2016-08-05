@@ -14,6 +14,7 @@ enum GameSceneState {
 
 //This is sooooooo cool
 //SSH keys
+//way2
 
 class GameScene: SKScene, SKPhysicsContactDelegate {
     var hero: SKSpriteNode!
