@@ -12,6 +12,9 @@ enum GameSceneState {
     case Active, GameOver
 }
 
+//This is sooooooo cool
+
+
 class GameScene: SKScene, SKPhysicsContactDelegate {
     var hero: SKSpriteNode!
     var sinceTouch : CFTimeInterval = 0
